@@ -1,0 +1,16 @@
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\bin\Debug\net5.0\PokerProbability.exe
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\bin\Debug\net5.0\PokerProbability.deps.json
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\bin\Debug\net5.0\PokerProbability.runtimeconfig.json
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\bin\Debug\net5.0\PokerProbability.runtimeconfig.dev.json
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\bin\Debug\net5.0\PokerProbability.dll
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\bin\Debug\net5.0\ref\PokerProbability.dll
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\bin\Debug\net5.0\PokerProbability.pdb
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\obj\Debug\net5.0\PokerProbability.csproj.AssemblyReference.cache
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\obj\Debug\net5.0\PokerProbability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\obj\Debug\net5.0\PokerProbability.AssemblyInfoInputs.cache
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\obj\Debug\net5.0\PokerProbability.AssemblyInfo.cs
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\obj\Debug\net5.0\PokerProbability.csproj.CoreCompileInputs.cache
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\obj\Debug\net5.0\PokerProbability.dll
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\obj\Debug\net5.0\ref\PokerProbability.dll
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\obj\Debug\net5.0\PokerProbability.pdb
+C:\Users\joeos\source\repos\PokerProbability\PokerProbability\obj\Debug\net5.0\PokerProbability.genruntimeconfig.cache
